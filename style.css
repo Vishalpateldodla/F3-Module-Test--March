@@ -1,0 +1,36 @@
+/* Style for search form */
+#search-form {
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  #search-input {
+    margin-right: 10px;
+  }
+  
+  /* Style for current image container */
+  #current-image-container {
+    border: 1px solid #ccc;
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 0px;
+  }
+  
+  /* Style for search history list */
+  #search-history {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #search-history li {
+    cursor: pointer;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  #search-history li:hover {
+    background-color: #f0f0f0;
+  }
+  
